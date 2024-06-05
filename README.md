@@ -1,4 +1,8 @@
-Engineering materials
+                                                                        proyect 95octano
+grupo:galaxy crew.
+echo por:Raquel Lorenzo,Auric Arango,Dixon Jorge.
+colegio: Colegio Biling
+
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
