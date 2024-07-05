@@ -1,7 +1,10 @@
                                                                         proyect 95octano
 Grupo: Galaxy Crew.
+
 Hecho por: Raquel Lorenzo, Auric Arango, Jorge Dixon.
+
 Colegio: Colegio Bilingue Eben Ezer.
+
 
 Introducción
 Nuestro robot se basó según las reglas de WRO y según nuestro conocimiento sobre el tema de robótica le incluimos varios elementos que veremos a continuación. 
@@ -22,7 +25,6 @@ Sensores: Sensor proximidad se utiliza para medir a que distancia esta un objeto
 Control de velocidad/dirección: su control de velocidad es gracias al HUB y a los motores grandes de spike que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo que es similar al control de los autos. 
 
 Diagrama del Cableado:
-
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
  
  Programación
