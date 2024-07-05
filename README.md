@@ -7,10 +7,13 @@ Colegio: Colegio Bilingue Eben Ezer.
 
 
 Introducción
+
 Nuestro robot se basó según las reglas de WRO y según nuestro conocimiento sobre el tema de robótica le incluimos varios elementos que veremos a continuación. 
+
 •	Proceso de Diseño: El proceso a la hora de diseñar nuestro robot(95octano) fue algo riguroso, porque teníamos que implementar una mecánica compacta, y que fuera funcional todas las ideas que teníamos en mente, en el diseño base el robot era muy flojo y poco resistente vibraba mucho y necesitábamos más reforzamiento en las ruedas y parte baja de 95octano para corregir esto cambiamos la ruedas lisas que eran más pequeñas por unas más terrenales y grandes junto a eso reforzando la partes laterales para que gire de manera correcta y gracias al0 trabajo entre nosotros y un mar de ideas pudimos concluir con el proyecto
 
 Mecánica: 
+
 •	Dirección Se dirige basándose en la programación del Spike para un funcionamiento optimizado, en la parte inferior tenemos.
 •	Conducción: se conduce a través de el HUB que es el cual les da las indicaciones dependiendo de la situación en la que se encuentra en el momento de su conducción 
 •	Diseño del Chasis:
@@ -20,11 +23,12 @@ Mecánica:
 
 
 
-Electrónica 
+Electrónica:
+
 • Sensores: Sensor proximidad se utiliza para medir a que distancia esta un objeto o la pared a centímetros , sensor colores  que son dos  el primero para detectar el color rojo que gira  derecha, detecta el color verde y gira la izquierda y sensor de Orientación (hub) que es cerebro y se conecta los cables de los motores al hub que con la programación hace que el carro se mueva.
 • Control de velocidad/dirección: su control de velocidad es gracias al HUB y a los motores grandes de spike que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo que es similar al control de los autos. 
 
-Diagrama del Cableado:
+• Diagrama del Cableado:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
  
