@@ -1,4 +1,18 @@
 Electromechanical diagrams
-====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+==========================================
+
+DIAGRAMA ELECTRICO
+COLOR DETECTOR (DETECTOR DE COLOR)
+
+![image](https://github.com/auric123/95octano/assets/171710232/2b4d55c0-95db-4f6b-8a1a-8af38ba81439)
+
+==========================================
+
+DIAGRAMA ELECTRICO
+PROXIMITY DETECTOR (DETECTOR DE PROXIMIDAD)
+
+![image](https://github.com/auric123/95octano/assets/171710232/3f075ac4-b508-40d7-b228-80ca53bfe561)
+
+==========================================
+
