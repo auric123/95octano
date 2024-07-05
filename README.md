@@ -53,11 +53,12 @@ Este mes ejecutamos la construcción del robot armándolo de diferentes maneras,
 
 Jueves y martes 7-28 mayo: En este lapso de tiempo nos enfocamos en la estructura cambiando  las llantas y reforzando su esqueleto para que sea fuerte antes las vibraciones y  no se desarme, Creamos programaciones bases funcionales para luego trabájalas más fondo.
 
-Jueves y martes 18-27 junio: Ya aquí terminamos de armar el robot y nos enfocamos en la programación consiguiendo una programación funcional para ambas rondas, hicimos pruebas y funcionaba todo como se debía,  realizo material del repositorio en parte la mayoría.
+Jueves y martes 18-27 junio: Ya aquí terminamos de armar el robot y nos enfocamos en la programación consiguiendo una programación funcional para ambas rondas, hicimos pruebas y funcionaba todo como se debía,  se realizo el material del repositorio en parte la mayoría.
 
 Martes y jueves 2 julio:
 
-•	Desafió y solución: El mayor desafío que tuvimos fue 
+•	Desafió y solución: El mayor desafío que tuvimos fue conseguir una estructura sólida para el robot, sin que este pasara del tamaño estipulado en las reglas. Al conseguir la estructura sólida después de varios arreglos, nos encontramos con otro problema (estructral) que fue las ruedas delanteras, estas encargadas de hacer girar el robot, tendían a aflojarse de la estructura la mayor parte de veces, provocando que el robot no se direccionara ni andara de la forma debida, pero logramos arreglarlo después de muchos intentos, al probar distintas maneras de sujetar las ruedas.
+
 
 Conclusión 
 
@@ -65,12 +66,25 @@ Información: hub cerebro, batería se conecta
 
 ¿Qué nos motivó para la confección del vehículo?
 Nos motivamos en los vehículos Tesla por su autonomía en pista.
+
 • Movilidad: al principio obviamente nos inspiramos en el sistema automotriz común, pero al ver que nos consumía espacio, lo que para nosotros es de suma importancia, empezamos a buscar un sistema distinto. Se nos ocurrió la idea de hacerlo con engranajes lo que nos convenció debido a que el sistema pesaba menos que los demás y consumía menos espacio.
+
 • Potencia: Decidimos utilizar dos motores ya que así se haría más fácil cargar con el peso del robot, utilizando dos motores para mejor movilidad, equilibrio y rapidez de nuestro robot utilizamos una barra para mejor precisión en la movilidad de nuestro vehículo.  
+
 •	Sensores: Con ayuda de el sensor de proximidad medimos la distancia en la que Indie debe girar, apoyándonos también en los sensores de color si es rojo él va a girar a la derecha, si es verde él va a girar a la izquierda.
 
 •	Control de Velocidad de Dirección:
 Los motores junto a la programación fue la clave para tener una velocidad que primero aceptará la programación y los motores que son dos motores que depende si van a la izquierda o a la derecha.
+
+
+Listado de piezas:
+
+![image](https://github.com/auric123/95octano/assets/171710232/35c536c6-cd9e-4ae3-b061-e0b75a1359d5)
+![image](https://github.com/auric123/95octano/assets/171710232/78dbfd95-8da3-4cb1-a044-5a10c20cf7fa)
+![image](https://github.com/auric123/95octano/assets/171710232/a6206f33-47bc-41da-a8c5-2e10e75ad1e2)
+![image](https://github.com/auric123/95octano/assets/171710232/2cef7d31-6d1d-4904-abd2-a8fa9c8be0f3)
+![image](https://github.com/auric123/95octano/assets/171710232/f7a2cafd-2646-48c6-a498-effc2395be58)
+![image](https://github.com/auric123/95octano/assets/171710232/62402e8b-e369-4114-850d-54f6a8b528e8)
 
 
 
