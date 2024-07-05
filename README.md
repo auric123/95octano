@@ -41,19 +41,21 @@ Electrónica:
 
 •	Estrategias: Como estrategia principal teníamos que ver como se movía los sensores junto al motor y que pueda ser autónomo y especifico en los colores junto al sensor de color.
 •	Discusión del código:
-Entrada del diaria
-•	Cronología: Jueves 14-28 de marzo
-En este periodo fue la creación del boceto del como seria el robot
-E investigación sobre nuestra categoría.
+
+
+Entrada del diario
+•	Cronología: 
+
+Jueves 14-28 de marzo: En este periodo fue la creación del boceto del como seria el robot e investigación sobre nuestra categoría.
 
 Jueves y martes 2-25 de abril:
 Este mes ejecutamos la construcción del robot armándolo de diferentes maneras, aplicando en el hub el sensor ultrasónico, Logramos que el robot pudiera girar bien.
 
-Jueves y martes 7-28 mayo
-En este lapso de tiempo nos enfocamos en la estructura cambiando  las llantas y reforzando su esqueleto para que sea fuerte antes las vibraciones y  no se desarme, Creamos programaciones bases funcionales para luego trabájalas más fondo.
-Jueves y martes 18-27 junio
-Ya aquí terminamos de armar el robot y nos enfocamos en la programación consiguiendo una programación funcional para ambas rondas, hicimos pruebas y funcionaba todo como se debía,  realizo material del repositorio en parte la mayoría.
-Martes y jueves 2 julio
+Jueves y martes 7-28 mayo: En este lapso de tiempo nos enfocamos en la estructura cambiando  las llantas y reforzando su esqueleto para que sea fuerte antes las vibraciones y  no se desarme, Creamos programaciones bases funcionales para luego trabájalas más fondo.
+
+Jueves y martes 18-27 junio: Ya aquí terminamos de armar el robot y nos enfocamos en la programación consiguiendo una programación funcional para ambas rondas, hicimos pruebas y funcionaba todo como se debía,  realizo material del repositorio en parte la mayoría.
+
+Martes y jueves 2 julio:
 
 •	Desafió y solución: El mayor desafío que tuvimos fue 
 
