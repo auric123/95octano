@@ -85,6 +85,21 @@ Listado de piezas:
 ![image](https://github.com/auric123/95octano/assets/171710232/2cef7d31-6d1d-4904-abd2-a8fa9c8be0f3)
 ![image](https://github.com/auric123/95octano/assets/171710232/f7a2cafd-2646-48c6-a498-effc2395be58)
 ![image](https://github.com/auric123/95octano/assets/171710232/62402e8b-e369-4114-850d-54f6a8b528e8)
+![image](https://github.com/auric123/95octano/assets/171710232/385bbbe4-98de-4d86-8b17-b21b98dc1a8f)
+![image](https://github.com/auric123/95octano/assets/171710232/c30c98e6-fbff-4ef2-8d74-ba0325fa4d45)
+![image](https://github.com/auric123/95octano/assets/171710232/b05abe8c-c242-4491-b14c-73edf8e42d17)
+![image](https://github.com/auric123/95octano/assets/171710232/dd39e60b-687e-4a42-8429-ed7c03311dab)
+![image](https://github.com/auric123/95octano/assets/171710232/63d6cf63-f463-4550-8ed3-31e8962932f8)
+![image](https://github.com/auric123/95octano/assets/171710232/992b553f-8cf2-459c-bac1-39dda907fd50)
+![image](https://github.com/auric123/95octano/assets/171710232/e7ce1420-ba5c-40bf-8458-0c3b53aa7450)
+![image](https://github.com/auric123/95octano/assets/171710232/a7af1c55-96d9-4f12-93aa-46e36ef7b4d9)
+![image](https://github.com/auric123/95octano/assets/171710232/0f46b163-79a4-464a-bf14-0751072ea842)
+![image](https://github.com/auric123/95octano/assets/171710232/1ee8636b-3545-41d9-b13a-e4f876e4bd90)
+![image](https://github.com/auric123/95octano/assets/171710232/95a59277-932c-4112-a107-46fc9ceae021)
+![image](https://github.com/auric123/95octano/assets/171710232/f8d254ac-4711-4224-b18c-38f582c39879)
+![image](https://github.com/auric123/95octano/assets/171710232/b81bf4f5-2902-4c5d-8881-b6f4139750d2)
+
+
 
 
 
