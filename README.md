@@ -106,6 +106,7 @@ Listado de piezas:
 ![image](https://github.com/auric123/95octano/assets/171710232/db95968d-4936-4dce-b951-0aba337108e8)
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
+![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
 
 
 
