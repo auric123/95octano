@@ -21,13 +21,15 @@ Mecánica:
 
 
 Electrónica 
-Sensores: Sensor proximidad se utiliza para medir a que distancia esta un objeto o la pared a centímetros , sensor colores  que son dos  el primero para detectar el color rojo que gira  derecha, detecta el color verde y gira la izquierda y sensor de Orientación (hub) que es cerebro y se conecta los cables de los motores al hub que con la programación hace que el carro se mueva.
-Control de velocidad/dirección: su control de velocidad es gracias al HUB y a los motores grandes de spike que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo que es similar al control de los autos. 
+• Sensores: Sensor proximidad se utiliza para medir a que distancia esta un objeto o la pared a centímetros , sensor colores  que son dos  el primero para detectar el color rojo que gira  derecha, detecta el color verde y gira la izquierda y sensor de Orientación (hub) que es cerebro y se conecta los cables de los motores al hub que con la programación hace que el carro se mueva.
+• Control de velocidad/dirección: su control de velocidad es gracias al HUB y a los motores grandes de spike que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo que es similar al control de los autos. 
 
 Diagrama del Cableado:
+
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
  
  Programación
+ 
 •	Diagrama de flujo:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/9a47f9ea-59b3-4bf8-8f43-ba88dcf4d076)
@@ -50,14 +52,15 @@ Ya aquí terminamos de armar el robot y nos enfocamos en la programación consig
 Martes y jueves 2 julio
 
 •	Desafió y solución: El mayor desafío que tuvimos fue 
+
 Conclusión 
 
 Información: hub cerebro, batería se conecta 
 
 ¿Qué nos motivó para la confección del vehículo?
 Nos motivamos en los vehículos Tesla por su autonomía en pista.
-movilidad: al principio obviamente nos inspiramos en el sistema automotriz común, pero al ver que nos consumía espacio, lo que para nosotros es de suma importancia, empezamos a buscar un sistema distinto. Se nos ocurrió la idea de hacerlo con engranajes lo que nos convenció debido a que el sistema pesaba menos que los demás y consumía menos espacio.
-Potencia: Decidimos utilizar dos motores ya que así se haría más fácil cargar con el peso del robot, utilizando dos motores para mejor movilidad, equilibrio y rapidez de nuestro robot utilizamos una barra para mejor precisión en la movilidad de nuestro vehículo.  
+• Movilidad: al principio obviamente nos inspiramos en el sistema automotriz común, pero al ver que nos consumía espacio, lo que para nosotros es de suma importancia, empezamos a buscar un sistema distinto. Se nos ocurrió la idea de hacerlo con engranajes lo que nos convenció debido a que el sistema pesaba menos que los demás y consumía menos espacio.
+• Potencia: Decidimos utilizar dos motores ya que así se haría más fácil cargar con el peso del robot, utilizando dos motores para mejor movilidad, equilibrio y rapidez de nuestro robot utilizamos una barra para mejor precisión en la movilidad de nuestro vehículo.  
 •	Sensores: Con ayuda de el sensor de proximidad medimos la distancia en la que Indie debe girar, apoyándonos también en los sensores de color si es rojo él va a girar a la derecha, si es verde él va a girar a la izquierda.
 
 •	Control de Velocidad de Dirección:
