@@ -40,8 +40,22 @@ Electronics:
 
 
 •	Strategies: As a main strategy we had to see how the sensors moved together with the engine and that it could be autonomous and specific in the colors next to the color sensor.
+
 • Code discussion:
 
+![image](https://github.com/auric123/95octano/assets/171710232/cbca41ba-e355-412e-a51f-cd11d438489c)
+
+The first thing the code does is reset the Hub timer, then a loop is placed that will be performed until the timer reaches 33.2 seconds, the speed of motor A is set to 100% and motor B is placed in the 0° position.
+
+![image](https://github.com/auric123/95octano/assets/171710232/bd14e2d3-ddd7-4cc2-bef6-d5a7cdc5d96b)
+
+Then, if sensor D detects a wall less than 80cm away, it will do one of two actions; If sensor F detects a distance greater than 100cm and sensor C detects a distance less than 60cm, motor B will adjust its speed to 52% and adjust to the 60° position for 0.7 seconds, then adjust its speed again. but at 20% and it will be reset to the 0° position.
+
+![image](https://github.com/auric123/95octano/assets/171710232/b4350931-f8c4-4669-8e4c-0b478e1297c0)
+
+But, if sensor C detects a distance greater than 100cm and sensor F detects a distance less than 60cm, motor B will adjust its speed to 52% and adjust to the 290° position for 0.7 seconds, then adjust its speed again. speed to 20% and will reset to the 0° position.
+Outside of the sensor D function, we put the function of starting engine A into the stopwatch loop.
+And finally, when the time of 33.2 seconds on the stopwatch expires, we set the function to stop the motor and thus the robot would conclude with its laps.
 
 Journal entry
 •Chronology: 
