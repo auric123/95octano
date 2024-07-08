@@ -10,7 +10,8 @@ PERIMETER PROGRAM (PROGRAMA DEL PERIMETRO)
 
 OBSTACLE PROGRAM (PROGRAMA DE OBSTACULOS)
 
-![image](https://github.com/auric123/95octano/assets/171710232/0d035b29-9543-4a1f-8922-d674f724a0d6)
-![image](https://github.com/auric123/95octano/assets/171710232/8a3423b7-7db8-4a0b-b8d7-2ffc539fb346)
+![image](https://github.com/auric123/95octano/assets/171710232/76276378-912e-4fd9-a215-6d95b1aa91b9)
+![image](https://github.com/auric123/95octano/assets/171710232/4189ee51-4a27-4f9e-881d-acc116eda1fd)
+![image](https://github.com/auric123/95octano/assets/171710232/a9fb7504-d9bf-4cfe-8e5d-129b92f53910)
 
 ==================================================================
