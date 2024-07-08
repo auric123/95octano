@@ -58,7 +58,8 @@ Outside of the sensor D function, we put the function of starting engine A into 
 And finally, when the time of 33.2 seconds on the stopwatch expires, we set the function to stop the motor and thus the robot would conclude with its laps.
 
 Journal entry
-•Chronology: 
+
+• Chronology: 
 
 Thursday, March 14-28: In this period was the creation of the sketch of what the robot would be like and research on our category.
 
