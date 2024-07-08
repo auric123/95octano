@@ -1,83 +1,83 @@
                                                                         proyect 95octano
-Grupo: Galaxy Crew.
+Group: Galaxy Crew.
 
-Hecho por: Raquel Lorenzo, Auric Arango, Jorge Dixon.
+Members: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 
-Colegio: Colegio Bilingue Eben Ezer.
-
-
-Introducción
-
-Nuestro robot se basó según las reglas de WRO y según nuestro conocimiento sobre el tema de robótica le incluimos varios elementos que veremos a continuación. 
-
-•	Proceso de Diseño: El proceso a la hora de diseñar nuestro robot(95octano) fue algo riguroso, porque teníamos que implementar una mecánica compacta, y que fuera funcional todas las ideas que teníamos en mente, en el diseño base el robot era muy flojo y poco resistente vibraba mucho y necesitábamos más reforzamiento en las ruedas y parte baja de 95octano para corregir esto cambiamos la ruedas lisas que eran más pequeñas por unas más terrenales y grandes junto a eso reforzando la partes laterales para que gire de manera correcta y gracias al0 trabajo entre nosotros y un mar de ideas pudimos concluir con el proyecto
-
-Mecánica: 
-
-•	Dirección Se dirige basándose en la programación del Spike para un funcionamiento optimizado, en la parte inferior tenemos.
-•	Conducción: se conduce a través de el HUB que es el cual les da las indicaciones dependiendo de la situación en la que se encuentra en el momento de su conducción 
-•	Diseño del Chasis:
+School: Colegio Bilingue Eben Ezer.
 
 
+Introduction
+
+Our robot was based according to the rules of wro and according to our knowledge of the subject of robotics we included several elements that we will see below. 
+
+• design process: The process of designing our robot(95octane) was a bit rigorous, because we had to implementa compact mechanics, and all the ideas that we had in mind were functional. In the base design the robot was very loose and not very resistant vibrated a lot and we needed more reinforcement in the wheels and lower 95octane to correct this we changed the smooth wheels that were smaller for more ground and large together with that reinforcing the side parts to turn correctly and thanks to the work between us and a sea of ideas we were able to conclude with the project. 
+
+Mechanics: 
+
+• steering is directed based on spike programming for optimized performance, at the bottom we have.
+ • driving: you drive through the hub which gives you the indications depending on the situation you are in at the time of your driving
+• Chassis Design: Our robot has a square chassis that tries to simulate a conventional car. 
 
 
 
 
-Electrónica:
 
-• Sensores: Sensor proximidad se utiliza para medir a que distancia esta un objeto o la pared a centímetros , sensor colores  que son dos  el primero para detectar el color rojo que gira  derecha, detecta el color verde y gira la izquierda y sensor de Orientación (hub) que es cerebro y se conecta los cables de los motores al hub que con la programación hace que el carro se mueva.
-• Control de velocidad/dirección: su control de velocidad es gracias al HUB y a los motores grandes de spike que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo que es similar al control de los autos. 
 
-• Diagrama del Cableado:
+Electronics:
+
+• Sensors: Proximity sensor is used to measure how far away an object or the wall is to centimeters, sensor colors that are two the first to detect the red color that turns right, detects the green color and turns the left and Orientation sensor (hub) which is brain and connects the cables of the motors to the hub that with programming makes the car move.
+• Speed/Steering Control: Its speed control is thanks to the HUB and large spike motors that can reach a speed of 0 RPM to 200 RPM and its steering is handled thanks to a mechanism that is similar to the control of cars. 
+
+• Wiring Diagram:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
  
- Programación
+ Programming
  
-•	Diagrama de flujo:
+•	Flowchart:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/9a47f9ea-59b3-4bf8-8f43-ba88dcf4d076)
 
 
-•	Estrategias: Como estrategia principal teníamos que ver como se movía los sensores junto al motor y que pueda ser autónomo y especifico en los colores junto al sensor de color.
-•	Discusión del código:
+•	Strategies: As a main strategy we had to see how the sensors moved together with the engine and that it could be autonomous and specific in the colors next to the color sensor.
+• Code discussion:
 
 
-Entrada del diario
-•	Cronología: 
+Journal entry
+•Chronology: 
 
-Jueves 14-28 de marzo: En este periodo fue la creación del boceto del como seria el robot e investigación sobre nuestra categoría.
+Thursday, March 14-28: In this period was the creation of the sketch of what the robot would be like and research on our category.
 
-Jueves y martes 2-25 de abril:
-Este mes ejecutamos la construcción del robot armándolo de diferentes maneras, aplicando en el hub el sensor ultrasónico, Logramos que el robot pudiera girar bien.
+Thursday and Tuesday 2-25 April:
+This month we executed the construction of the robot assembling it in different ways, applying the ultrasonic sensor to the hub, we managed to make the robot rotate well.
 
-Jueves y martes 7-28 mayo: En este lapso de tiempo nos enfocamos en la estructura cambiando  las llantas y reforzando su esqueleto para que sea fuerte antes las vibraciones y  no se desarme, Creamos programaciones bases funcionales para luego trabájalas más fondo.
+Thursday and Tuesday May 7-28: In this period of time we focus on the structure changing the tires and reinforcing its skeleton so that it is strong against vibrations and does not fall apart, We create functional base programs and then work them more deeply.
 
-Jueves y martes 18-27 junio: Ya aquí terminamos de armar el robot y nos enfocamos en la programación consiguiendo una programación funcional para ambas rondas, hicimos pruebas y funcionaba todo como se debía,  se realizo el material del repositorio en parte la mayoría.
+Thursday and Tuesday 18-27 June: Here we finished assembling the robot and focused on programming getting a functional programming for both rounds, we did tests and everything worked as it should. 
 
-Martes y jueves 2 julio:
+Tuesday and Thursday, July 2:
 
-•	Desafió y solución: El mayor desafío que tuvimos fue conseguir una estructura sólida para el robot, sin que este pasara del tamaño estipulado en las reglas. Al conseguir la estructura sólida después de varios arreglos, nos encontramos con otro problema (estructral) que fue las ruedas delanteras, estas encargadas de hacer girar el robot, tendían a aflojarse de la estructura la mayor parte de veces, provocando que el robot no se direccionara ni andara de la forma debida, pero logramos arreglarlo después de muchos intentos, al probar distintas maneras de sujetar las ruedas.
-
-
-Conclusión 
-
-Información: hub cerebro, batería se conecta 
-
-¿Qué nos motivó para la confección del vehículo?
-Nos motivamos en los vehículos Tesla por su autonomía en pista.
-
-• Movilidad: al principio obviamente nos inspiramos en el sistema automotriz común, pero al ver que nos consumía espacio, lo que para nosotros es de suma importancia, empezamos a buscar un sistema distinto. Se nos ocurrió la idea de hacerlo con engranajes lo que nos convenció debido a que el sistema pesaba menos que los demás y consumía menos espacio.
-
-• Potencia: Decidimos utilizar dos motores ya que así se haría más fácil cargar con el peso del robot, utilizando dos motores para mejor movilidad, equilibrio y rapidez de nuestro robot utilizamos una barra para mejor precisión en la movilidad de nuestro vehículo.  
-
-•	Sensores: Con ayuda de el sensor de proximidad medimos la distancia en la que Indie debe girar, apoyándonos también en los sensores de color si es rojo él va a girar a la derecha, si es verde él va a girar a la izquierda.
-
-•	Control de Velocidad de Dirección:
-Los motores junto a la programación fue la clave para tener una velocidad que primero aceptará la programación y los motores que son dos motores que depende si van a la izquierda o a la derecha.
+• challenge and solution: the biggest challenge we had was to get a solid structure for the robot, without exceeding the size stipulated in the regulations. When we got the solid structure after several repairs, we found another (structural) problem which was that the front wheels, which are responsible for spinning the robot, tended to fall off the structure most of the time, causing the robot to not steer or walk properly so we had to replace the spike wheels with other lego wheels.
 
 
-Listado de piezas:
+Conclusion 
+
+Information: brain hub, battery connects 
+
+¿What motivated us to make the vehicle?
+We are motivated in Tesla vehicles by their autonomy on the track.
+
+• mobility: at the beginning we were obviously inspired by the common car system, but when we saw that it consumed space, which is very important for us, we started looking for a different system. We came up with the idea of doing it with gears which convinced us because the system weighed less than the others and consumed less space.
+
+• power: we decided to use two motors as this would make it easier to carry the weight of the robot, using two motors for better mobility, balance and speed of our robot we use a bar for better precision in the mobility of our vehicle.
+
+ • sensors: with the help of the proximity sensor we measure the distance in which indie must rotate, also relying on the color sensors if it is red it will rotate to the right, if it is green it will rotate to the left.
+
+• Steering Speed Control:
+The motors together with the programming was the key to having a speed that will first accept the programming and the motors that are two motors that depend on whether they go to the left or to the right.
+
+
+Parts List:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/35c536c6-cd9e-4ae3-b061-e0b75a1359d5)
 ![image](https://github.com/auric123/95octano/assets/171710232/78dbfd95-8da3-4cb1-a044-5a10c20cf7fa)
