@@ -125,6 +125,7 @@ Parts List:
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
+[![S49eb0f8bac1b41d98d6a0110ac64845d-P-jpg-640x640q90-edit-895354962671832.jpg](https://i.postimg.cc/X78r0sn7/S49eb0f8bac1b41d98d6a0110ac64845d-P-jpg-640x640q90-edit-895354962671832.jpg)](https://postimg.cc/svMjY9Bt)
 
 ========================================================================================================================================================================================
 
