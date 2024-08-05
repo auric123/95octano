@@ -12,7 +12,7 @@ COLOR DETECTOR (DETECTOR DE COLOR)
 ELECTRICAL DIAGRAM
 PROXIMITY DETECTOR (DETECTOR DE PROXIMIDAD)
 
-![image](https://github.com/auric123/95octano/assets/171710232/3f075ac4-b508-40d7-b228-80ca53bfe561)
+![image](https://github.com/user-attachments/assets/a85247f2-74b8-470f-9258-cc99588387a5)
 
 ==========================================
 
