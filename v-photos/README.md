@@ -1,9 +1,15 @@
-Vehicle's photos
-====
+![IMG-20240805-WA0001](https://github.com/user-attachments/assets/8b8b690a-8406-48d7-9991-6eb9141f65a0)Vehicle's photos
+==========
 
-[![IMG-20240627-WA0022.jpg](https://i.postimg.cc/4NXL0zqM/IMG-20240627-WA0022.jpg)](https://postimg.cc/PNFQp8tz)
-[![IMG-20240627-WA0024.jpg](https://i.postimg.cc/7Z6BHqxn/IMG-20240627-WA0024.jpg)](https://postimg.cc/Cz3CJTnR)
-[![IMG-20240627-WA0023.jpg](https://i.postimg.cc/BQNYfjGv/IMG-20240627-WA0023.jpg)](https://postimg.cc/bsDHQNrX)
-[![IMG-20240627-WA0025.jpg](https://i.postimg.cc/xjvpgsxM/IMG-20240627-WA0025.jpg)](https://postimg.cc/0rNCyCqy)
-[![IMG-20240627-WA0026.jpg](https://i.postimg.cc/jqBNwKQh/IMG-20240627-WA0026.jpg)](https://postimg.cc/JtctvfFy)
-[![IMG-20240708-WA0004.jpg](https://i.postimg.cc/Y0HnMg9v/IMG-20240708-WA0004.jpg)](https://postimg.cc/S2g7Gnc4)
+Diseño N°1
+
+![image](https://github.com/user-attachments/assets/847a8468-6ae1-4f8a-adc9-5e4c412a72e0)
+![image](https://github.com/user-attachments/assets/3bcb6d59-f161-4363-986a-b9cd1690efd5)
+![image](https://github.com/user-attachments/assets/a2362a5a-7f08-4186-b2e8-ce6f8b8a83c8)
+![image](https://github.com/user-attachments/assets/acec42ce-1022-4bef-8c35-48cdb8bb517c)
+![image](https://github.com/user-attachments/assets/1540941f-799c-438c-a616-920db00a07bd)
+
+==========
+
+Diseño N°2
+
