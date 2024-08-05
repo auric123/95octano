@@ -34,6 +34,8 @@ Electronics:
 • Wiring Diagram:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
+![image](https://github.com/user-attachments/assets/a85247f2-74b8-470f-9258-cc99588387a5)
+
  
  Programming
  
