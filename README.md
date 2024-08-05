@@ -121,11 +121,11 @@ Parts List:
 ![image](https://github.com/auric123/95octano/assets/171710232/e99c8f3f-4785-41dc-95d3-6ac1a69464ab)
 ![image](https://github.com/auric123/95octano/assets/171710232/7e371c02-2839-4e8f-ac34-a13e4d5d5344)
 ![image](https://github.com/auric123/95octano/assets/171710232/aa0fa25f-dce5-49a6-ad5e-846acad7980e)
-![image](https://github.com/auric123/95octano/assets/171710232/a07ff345-2b1a-4716-8384-ef7341d1c4d5)
-![image](https://github.com/auric123/95octano/assets/171710232/db95968d-4936-4dce-b951-0aba337108e8)
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
+![image](https://github.com/user-attachments/assets/b8890471-7bc3-466b-a97f-e47dbb53b473)
+![image](https://github.com/user-attachments/assets/f31d95f1-6fc8-4a74-a8e5-b632d67c8e48)
 
 
 ========================================================================================================================================================================================
@@ -238,8 +238,8 @@ Lista de partes:
 ![image](https://github.com/auric123/95octano/assets/171710232/e99c8f3f-4785-41dc-95d3-6ac1a69464ab)
 ![image](https://github.com/auric123/95octano/assets/171710232/7e371c02-2839-4e8f-ac34-a13e4d5d5344)
 ![image](https://github.com/auric123/95octano/assets/171710232/aa0fa25f-dce5-49a6-ad5e-846acad7980e)
-![image](https://github.com/auric123/95octano/assets/171710232/a07ff345-2b1a-4716-8384-ef7341d1c4d5)
-![image](https://github.com/auric123/95octano/assets/171710232/db95968d-4936-4dce-b951-0aba337108e8)
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
+![image](https://github.com/user-attachments/assets/14612b88-189b-4610-84f4-c1f6af35f1f7)
+![image](https://github.com/user-attachments/assets/3b6bd0dc-013a-4ddd-b7b5-1c3cb811ffaa)
