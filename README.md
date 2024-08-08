@@ -41,17 +41,21 @@ Electrónica:
 
    • Discusión del código:
 
-![image](https://github.com/auric123/95octano/assets/171710232/cbca41ba-e355-412e-a51f-cd11d438489c)
+![image](https://github.com/user-attachments/assets/7a250926-4d16-4ac0-8bd6-9209aabbdc0f)
 
-Lo primero que hace el código es resetear el temporizador del Hub, luego se coloca un bucle que se realizará hasta que el temporizador llegue a 33,2 segundos, se pone la velocidad del motor A al 100% y se coloca el motor B en la posición 0°.
+Esta programación la utilizamos tanto para la ronda 1 como en la ronda de obstáculos, básicamente colocamos que al iniciar el programa lo primero que realice el Hub es reiniciar el cronómetro para que comience en 0. La velocidad del motor "A" la ajustamos en 60% y la posición del motor "B" en los 0° grados. El robot realizará las siguientes acciones en un tiempo de 60 segundos en forma de repeticiones.
 
-![image](https://github.com/auric123/95octano/assets/171710232/bd14e2d3-ddd7-4cc2-bef6-d5a7cdc5d96b)
+![image](https://github.com/user-attachments/assets/22b5a355-0437-4ba1-b6de-1fca4c989270)
 
-Luego, si el sensor D detecta una pared a menos de 80 cm de distancia, realizará una de dos acciones; Si el sensor F detecta una distancia superior a 100 cm y el sensor C detecta una distancia inferior a 60 cm, el motor B ajustará su velocidad al 52% y se ajustará a la posición de 60° durante 0,7 segundos, luego ajustará su velocidad nuevamente. pero al 20% y se restablecerá a la posición 0°.
+Ahora, si el sensor C está a más de 100cm y el sensor F está a menos de 75cm, lo que realizara el robot a continuación es reducir su velocidad del motor "A" a 40% y posicionar el giro del motor "B" en 305° grados durante 0,6 segundos. Al pasar el tiempo volverá a ajustar su velocidad a 40% y la posición del motor "B" en 0° grados.
 
-![image](https://github.com/auric123/95octano/assets/171710232/b4350931-f8c4-4669-8e4c-0b478e1297c0)
+![image](https://github.com/user-attachments/assets/3ed03b18-5244-4ea0-8bca-b4182441aab1)
 
-Pero, si el sensor C detecta una distancia superior a 100 cm y el sensor F detecta una distancia inferior a 60 cm, el motor B ajustará su velocidad al 52% y se ajustará a la posición de 290° durante 0,7 segundos, luego ajustará su velocidad nuevamente. velocidad al 20% y se restablecerá a la posición 0°. Fuera de la función del sensor D, colocamos la función de arrancar el motor A en el bucle del cronómetro. Y finalmente, cuando expire el tiempo de 33,2 segundos en el cronómetro, configuramos la función para parar el motor y así el robot concluiría con sus vueltas.
+Pero, si el sensor F es quien detecta más de 100Cm de distancia y el sensor C detecta menos de 75cm, el robot realizará lo mismo, solo que girará al lado contrario del caso anterior, posicionando el motor "B" en 55° grados y manteniendo la velocidad del motor "A" en 40% durante los 0,6 segundos, luego volverá a reacomodarse el motor "B" en 0° grados. 
+
+![image](https://github.com/user-attachments/assets/b95c3641-b0fa-4758-bcb5-d483953cc901)
+
+Por último, el robot realizará estas acciones en bucle manteniendo encendido el motor "A". Y al terminar el tiempo estipulado, se detendrán los motores y el Hub saldra de la programación.
 
    Entrada de diario
 
@@ -163,19 +167,22 @@ Our robot was based according to the rules of wro and according to our knowledge
 
    • Code discussion:
 
-![image](https://github.com/auric123/95octano/assets/171710232/cbca41ba-e355-412e-a51f-cd11d438489c)
+![image](https://github.com/user-attachments/assets/7a250926-4d16-4ac0-8bd6-9209aabbdc0f)
 
-The first thing the code does is reset the Hub timer, then a loop is placed that will be performed until the timer reaches 33.2 seconds, the speed of motor A is set to 100% and motor B is placed in the 0° position.
+We use this programming both for round 1 and in the obstacle round, basically we place that when starting the program the first thing the Hub does is to restart the timer so that it starts at 0. The speed of the "A" engine is set to 60% and the position of the "B" engine to 0° degrees. The robot will perform the following actions in a time of 60 seconds in the form of repetitions.
 
-![image](https://github.com/auric123/95octano/assets/171710232/bd14e2d3-ddd7-4cc2-bef6-d5a7cdc5d96b)
+![image](https://github.com/user-attachments/assets/22b5a355-0437-4ba1-b6de-1fca4c989270)
 
-Then, if sensor D detects a wall less than 80cm away, it will do one of two actions; If sensor F detects a distance greater than 100cm and sensor C detects a distance less than 60cm, motor B will adjust its speed to 52% and adjust to the 60° position for 0.7 seconds, then adjust its speed again. but at 20% and it will be reset to the 0° position.
+Now, if the C sensor is more than 100cm away and the F sensor is less than 75cm, what the robot will do next is to reduce its speed of the "A" motor to 40% and position the rotation of the "B" motor at 305° degrees for 0.6 seconds. As time goes by, it will adjust its speed again to 40% and the position of the "B" engine to 0° degrees.
 
-![image](https://github.com/auric123/95octano/assets/171710232/b4350931-f8c4-4669-8e4c-0b478e1297c0)
+![image](https://github.com/user-attachments/assets/3ed03b18-5244-4ea0-8bca-b4182441aab1)
 
-But, if sensor C detects a distance greater than 100cm and sensor F detects a distance less than 60cm, motor B will adjust its speed to 52% and adjust to the 290° position for 0.7 seconds, then adjust its speed again. speed to 20% and will reset to the 0° position.
-Outside of the sensor D function, we put the function of starting engine A into the stopwatch loop.
-And finally, when the time of 33.2 seconds on the stopwatch expires, we set the function to stop the motor and thus the robot would conclude with its laps.
+But, if the F sensor is the one that detects more than 100 cm away and the C sensor detects less than 75 cm, the robot will do the same, only that it will turn to the opposite side of the previous case, positioning the "B" motor at 55° degrees and maintaining the speed of the "A" motor at 40% for 0.6 seconds, then the "B" motor will be rearranged again at 0° degrees. 
+
+![image](https://github.com/user-attachments/assets/b95c3641-b0fa-4758-bcb5-d483953cc901)
+
+Finally, the robot will perform these actions in a loop by keeping the "A" engine on. And at the end of the stipulated time, the engines will stop and the Hub will go out of the programming.
+
 
    Journal entry
 
