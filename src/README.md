@@ -4,14 +4,15 @@ Control software
 
 PERIMETER PROGRAM (PROGRAMA DEL PERIMETRO)
 
-![image](https://github.com/auric123/95octano/assets/171710232/8b2eee78-7152-4bbc-a1cf-778bab58a729)
+![image](https://github.com/user-attachments/assets/9cdc5981-febd-4562-8ed1-9bffe0fc4be4)
 
 ==================================================================
 
 OBSTACLE PROGRAM (PROGRAMA DE OBSTACULOS)
 
-![image](https://github.com/auric123/95octano/assets/171710232/76276378-912e-4fd9-a215-6d95b1aa91b9)
-![image](https://github.com/auric123/95octano/assets/171710232/4189ee51-4a27-4f9e-881d-acc116eda1fd)
-![image](https://github.com/auric123/95octano/assets/171710232/a9fb7504-d9bf-4cfe-8e5d-129b92f53910)
+![image](https://github.com/user-attachments/assets/28eb37b1-18b6-47f5-8f7c-9a288c91ec1c)
+![image](https://github.com/user-attachments/assets/c08a5c20-9e26-4cfb-afa2-cc6af57d699d)
+![image](https://github.com/user-attachments/assets/60e7302e-a659-405e-b512-722d386a5786)
+![image](https://github.com/user-attachments/assets/692e8c71-b0c4-46c1-a2a0-13fbef28559e)
 
 ==================================================================
