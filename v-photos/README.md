@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/5685db62-8e73-4c21-93b4-57406c785bd0)![image](https://github.com/user-attachments/assets/d36ffc7f-ab60-4960-ba9a-92c22d373d7a)Vehicle's photos
+Vehicle's photos
 ==========
 
-![image](https://github.com/user-attachments/assets/9f896ea6-5af8-4748-af60-a7a1ca5fd71b)
+![image](https://github.com/user-attachments/assets/5b16a7e3-6daf-4a1e-a5c3-a0efcf09795f)
 ![image](https://github.com/user-attachments/assets/dc5c414b-5bbc-404e-b302-c5fd8a6d85ab)
 ![image](https://github.com/user-attachments/assets/be14f058-7f79-40f4-b5c3-acf1b5ffddf7)
 ![image](https://github.com/user-attachments/assets/7b2930a3-ab0a-4195-b1c1-d4f47458a7c1)
