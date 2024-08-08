@@ -112,8 +112,8 @@ Información: Brain Hub, la batería se conecta.
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
-![image](https://github.com/user-attachments/assets/14612b88-189b-4610-84f4-c1f6af35f1f7)
-![image](https://github.com/user-attachments/assets/3b6bd0dc-013a-4ddd-b7b5-1c3cb811ffaa)
+![image](https://github.com/user-attachments/assets/3ae3643d-cfdc-4e9a-bd0e-40bdce629090)
+
 
 ========================================================================================================================================================================================                                                                      proyect 95octano
 Group: Galaxy Crew.
@@ -241,8 +241,4 @@ Parts List:
 ![image](https://github.com/auric123/95octano/assets/171710232/c0f8c2dd-5ba0-46da-8d08-85ebafc04b60)
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
-![image](https://github.com/user-attachments/assets/b8890471-7bc3-466b-a97f-e47dbb53b473)
-![image](https://github.com/user-attachments/assets/f31d95f1-6fc8-4a74-a8e5-b632d67c8e48)
-
-
-
+![image](https://github.com/user-attachments/assets/a35eb5f7-ad84-4089-8751-19fc01d0fc83)
