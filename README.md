@@ -6,40 +6,40 @@ Integrantes: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 
 Colegio: Colegio Bilingue Eben Ezer.
 
-Introducción
+   Introducción
 
-Nuestro robot se basó según las reglas de wro y según nuestros conocimientos del tema de robótica incluimos varios elementos que veremos a continuación.
+Nuestro robot (95 Octanos) se basó según las reglas de wro y según nuestros conocimientos del tema de robótica incluimos varios elementos que veremos a continuación.
 
-• Proceso de diseño: El proceso de diseño de nuestro robot (95 octanos) fue un poco riguroso, porque tuvimos que implementar una mecánica compacta, y todas las ideas que teníamos en mente eran funcionales. En el diseño base el robot estaba muy flojo y poco resistente vibraba mucho y necesitábamos más refuerzo en las ruedas y menos de 95 octanos para corregir esto cambiamos las ruedas lisas que eran más pequeñas por más terreno y grandes junto con eso reforzando las partes laterales. girar correctamente y gracias al trabajo entre nosotros y un mar de ideas pudimos concluir con el proyecto.
+   • Proceso de diseño: El proceso de diseño de "95 Octanos" fue un poco riguroso, porque tuvimos que implementar una mecánica compacta, y todas las ideas que teníamos en mente eran funcionales. En el diseño base el robot estaba muy flojo y poco resistente vibraba mucho y necesitábamos más refuerzo en las ruedas y menos de 95 octanos para corregir esto cambiamos las ruedas lisas que eran más pequeñas por más terreno y grandes junto con eso reforzando las partes laterales. girar correctamente y gracias al trabajo entre nosotros y un mar de ideas pudimos concluir con el proyecto.
 
-Mecánica:
+   Mecánica:
 
-• La dirección se dirige basándose en la programación de picos para un rendimiento optimizado, en la parte inferior tenemos.
+   • La dirección se dirige basándose en la programación de picos para un rendimiento optimizado, en la parte inferior tenemos.
 
-• Conducir: conduces a través del centro que te da las indicaciones dependiendo de la situación en la que te encuentres en el momento de conducir.
+   • Conducir: conduces a través del centro que te da las indicaciones dependiendo de la situación en la que te encuentres en el momento de conducir.
 
-• Diseño de Chasis: Nuestro robot tiene un chasis cuadrado que intenta simular un coche convencional.
+   • Diseño de Chasis: Nuestro robot tiene un chasis cuadrado que intenta simular un coche convencional.
 
 
 Electrónica:
 
-• Sensores: El sensor de proximidad se utiliza para medir qué tan lejos está un objeto o la pared en centímetros, el sensor de colores que son dos el primero detecta el color rojo que gira a la derecha, detecta el color verde y gira a la izquierda y el sensor de orientación (hub ) que es el cerebro y conecta los cables de los motores al hub que con programación hace que el auto se mueva.
+   • Sensores: El sensor de proximidad se utiliza para medir qué tan lejos está un objeto o la pared en centímetros, el sensor de colores que son dos el primero detecta el color rojo que gira a la derecha, detecta el color verde y gira a la izquierda y el sensor de orientación (hub ) que es el cerebro y conecta los cables de los motores al hub que con programación hace que el auto se mueva.
 
-• Control de Velocidad/Dirección: Su control de velocidad es gracias al HUB y motores de púas grandes que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo similar al control de los automóviles.
+   • Control de Velocidad/Dirección: Su control de velocidad es gracias al HUB y motores de púas grandes que pueden alcanzar una velocidad de 0 RPM a 200 RPM y su dirección se maneja gracias a un mecanismo similar al control de los automóviles.
 
-• Diagrama de cableado:
+   • Diagrama de cableado:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/21b96cc4-9544-4d3e-ae6e-8dbff8ff26a6)
 
-Programación
+   Programación
 
-• Diagrama de flujo:
+   • Diagrama de flujo:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/9a47f9ea-59b3-4bf8-8f43-ba88dcf4d076)
 
-Estrategias: Como estrategia principal teníamos que ver cómo se movían los sensores junto con el motor y que éste pudiera ser autónomo y específico en los colores al lado del sensor de color.
+   Estrategias: Como estrategia principal teníamos que ver cómo se movían los sensores junto con el motor y que éste pudiera ser autónomo y específico en los colores al lado del sensor de color.
 
-• Discusión del código:
+   • Discusión del código:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/cbca41ba-e355-412e-a51f-cd11d438489c)
 
@@ -53,9 +53,9 @@ Luego, si el sensor D detecta una pared a menos de 80 cm de distancia, realizar�
 
 Pero, si el sensor C detecta una distancia superior a 100 cm y el sensor F detecta una distancia inferior a 60 cm, el motor B ajustará su velocidad al 52% y se ajustará a la posición de 290° durante 0,7 segundos, luego ajustará su velocidad nuevamente. velocidad al 20% y se restablecerá a la posición 0°. Fuera de la función del sensor D, colocamos la función de arrancar el motor A en el bucle del cronómetro. Y finalmente, cuando expire el tiempo de 33,2 segundos en el cronómetro, configuramos la función para parar el motor y así el robot concluiría con sus vueltas.
 
-Entrada de diario
+   Entrada de diario
 
-• Cronología:
+   • Cronología:
 
 Jueves 14 al 28 de marzo: En este período se realizó la creación del boceto de cómo sería el robot y la investigación sobre nuestra categoría.
 
@@ -65,25 +65,26 @@ Jueves y martes 7 al 28 de mayo: En este periodo de tiempo nos enfocamos en la e
 
 Jueves y martes 18-27 de junio: Aquí terminamos de ensamblar el robot y nos enfocamos en programar obteniendo una programación funcional para ambas rondas, hicimos pruebas y todo funcionó como debía.
 
-Martes y jueves 2 de julio:
+Martes y jueves 2 de julio: Terminamos de probar las programaciones y conseguimos completar la primera ronda con éxito; logramos crear una buena programación para la segunda ronda siendo funcional.
 
-• Reto y solución: el mayor desafío que tuvimos fue conseguir una estructura sólida para el robot, sin exceder el tamaño estipulado en la normativa. Cuando conseguimos la estructura sólida después de varias reparaciones, encontramos otro problema (estructural) que era que las ruedas delanteras, que son responsables de hacer girar el robot, tendían a caerse de la estructura la mayor parte del tiempo, provocando que el robot no girara ni caminaba correctamente, así que tuvimos que reemplazar las ruedas con púas por otras ruedas de Lego.
+   • Reto y solución: el mayor desafío que tuvimos fue conseguir una estructura sólida para el robot, sin exceder el tamaño estipulado en la normativa. Cuando conseguimos la estructura sólida después de varias reparaciones, encontramos otro problema (estructural) que era que las ruedas delanteras, que son responsables de hacer girar el robot, tendían a caerse de la estructura la mayor parte del tiempo, provocando que el robot no girara ni caminaba correctamente, así que tuvimos que reemplazar las ruedas con púas por otras ruedas de Lego.
 
-Conclusión
+
+   Conclusión 
 
 Información: Brain Hub, la batería se conecta.
 
 ¿Qué nos motivó a fabricar el vehículo? En los vehículos Tesla nos motiva su autonomía en pista.
 
-• Movilidad: al principio obviamente nos inspiramos en el sistema común del coche, pero cuando vimos que consumía espacio, que para nosotros es muy importante, empezamos a buscar un sistema diferente. Se nos ocurrió la idea de hacerlo con engranajes lo cual nos convenció porque el sistema pesaba menos que los demás y consumía menos espacio.
+   • Movilidad: al principio obviamente nos inspiramos en el sistema común del coche, pero cuando vimos que consumía espacio, que para nosotros es muy importante, empezamos a buscar un sistema diferente. Se nos ocurrió la idea de hacerlo con engranajes lo cual nos convenció porque el sistema pesaba menos que los demás y consumía menos espacio.
 
-• Potencia: decidimos usar dos motores ya que esto facilitaría el transporte del peso del robot, usando dos motores para una mejor movilidad, equilibrio y velocidad de nuestro robot usamos una barra para una mejor precisión en la movilidad de nuestro vehículo.
+   • Potencia: decidimos usar dos motores ya que esto facilitaría el transporte del peso del robot, usando dos motores para una mejor movilidad, equilibrio y velocidad de nuestro robot usamos una barra para una mejor precisión en la movilidad de nuestro vehículo.
 
-• Sensores: con ayuda del sensor de proximidad medimos la distancia en la que debe girar el indie, apoyándonos también en los sensores de color si es rojo girará hacia la derecha, si es verde girará hacia la izquierda.
+   • Sensores: con ayuda del sensor de proximidad medimos la distancia en la que debe girar el indie, apoyándonos también en los sensores de color si es rojo girará hacia la derecha, si es verde girará hacia la izquierda.
 
-• Control de Velocidad de Dirección: Los motores junto con la programación fue la clave para tener una velocidad que primero acepte la programación y los motores que son dos motores que dependen si van hacia la izquierda o hacia la derecha.
+   • Control de Velocidad de Dirección: Los motores junto con la programación fue la clave para tener una velocidad que primero acepte la programación y los motores que son dos motores que dependen si van hacia la izquierda o hacia la derecha.
 
-Lista de partes:
+   Lista de partes:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/35c536c6-cd9e-4ae3-b061-e0b75a1359d5)
 ![image](https://github.com/auric123/95octano/assets/171710232/78dbfd95-8da3-4cb1-a044-5a10c20cf7fa)
@@ -122,46 +123,46 @@ Members: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 School: Colegio Bilingue Eben Ezer.
 
 
-Introduction
+   Introduction
 
 Our robot was based according to the rules of wro and according to our knowledge of the subject of robotics we included several elements that we will see below. 
 
-• Design process: The process of designing our robot(95octane) was a bit rigorous, because we had to implementa compact mechanics, and all the ideas that we had in mind were functional. In the base design the robot was very loose and not very resistant vibrated a lot and we needed more reinforcement in the wheels and lower 95octane to correct this we changed the smooth wheels that were smaller for more ground and large together with that reinforcing the side parts to turn correctly and thanks to the work between us and a sea of ideas we were able to conclude with the project. 
+   • Design process: The process of designing our robot(95octane) was a bit rigorous, because we had to implementa compact mechanics, and all the ideas that we had in mind were functional. In the base design the robot was very loose and not very resistant vibrated a lot and we needed more reinforcement in the wheels and lower 95octane to correct this we changed the smooth wheels that were smaller for more ground and large together with that reinforcing the side parts to turn correctly and thanks to the work between us and a sea of ideas we were able to conclude with the project. 
 
-Mechanics: 
+   Mechanics: 
 
-• Steering is directed based on spike programming for optimized performance, at the bottom we have.
+   • Steering is directed based on spike programming for optimized performance, at the bottom we have.
 
-• Driving: you drive through the hub which gives you the indications depending on the situation you are in at the time of your driving
+   • Driving: you drive through the hub which gives you the indications depending on the situation you are in at the time of your driving
 
-• Chassis Design: Our robot has a square chassis that tries to simulate a conventional car. 
-
-
+   • Chassis Design: Our robot has a square chassis that tries to simulate a conventional car. 
 
 
 
 
-Electronics:
 
-• Sensors: Proximity sensor is used to measure how far away an object or the wall is to centimeters, sensor colors that are two the first to detect the red color that turns right, detects the green color and turns the left and Orientation sensor (hub) which is brain and connects the cables of the motors to the hub that with programming makes the car move.
 
-• Speed/Steering Control: Its speed control is thanks to the HUB and large spike motors that can reach a speed of 0 RPM to 200 RPM and its steering is handled thanks to a mechanism that is similar to the control of cars. 
+   Electronics:
 
-• Wiring Diagram:
+   • Sensors: Proximity sensor is used to measure how far away an object or the wall is to centimeters, sensor colors that are two the first to detect the red color that turns right, detects the green color and turns the left and Orientation sensor (hub) which is brain and connects the cables of the motors to the hub that with programming makes the car move.
+
+   • Speed/Steering Control: Its speed control is thanks to the HUB and large spike motors that can reach a speed of 0 RPM to 200 RPM and its steering is handled thanks to a mechanism that is similar to the control of cars. 
+
+   • Wiring Diagram:
 
 ![image](https://github.com/user-attachments/assets/a85247f2-74b8-470f-9258-cc99588387a5)
 
  
- Programming
+   Programming
  
-•	Flowchart:
+   •	Flowchart:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/9a47f9ea-59b3-4bf8-8f43-ba88dcf4d076)
 
 
-•	Strategies: As a main strategy we had to see how the sensors moved together with the engine and that it could be autonomous and specific in the colors next to the color sensor.
+   •	Strategies: As a main strategy we had to see how the sensors moved together with the engine and that it could be autonomous and specific in the colors next to the color sensor.
 
-• Code discussion:
+   • Code discussion:
 
 ![image](https://github.com/auric123/95octano/assets/171710232/cbca41ba-e355-412e-a51f-cd11d438489c)
 
@@ -177,9 +178,9 @@ But, if sensor C detects a distance greater than 100cm and sensor F detects a di
 Outside of the sensor D function, we put the function of starting engine A into the stopwatch loop.
 And finally, when the time of 33.2 seconds on the stopwatch expires, we set the function to stop the motor and thus the robot would conclude with its laps.
 
-Journal entry
+   Journal entry
 
-• Chronology: 
+   • Chronology: 
 
 Thursday, March 14-28: In this period was the creation of the sketch of what the robot would be like and research on our category.
 
@@ -192,23 +193,23 @@ Thursday and Tuesday 18-27 June: Here we finished assembling the robot and focus
 
 Tuesday and Thursday, July 2:
 
-• Challenge and solution: the biggest challenge we had was to get a solid structure for the robot, without exceeding the size stipulated in the regulations. When we got the solid structure after several repairs, we found another (structural) problem which was that the front wheels, which are responsible for spinning the robot, tended to fall off the structure most of the time, causing the robot to not steer or walk properly so we had to replace the spike wheels with other lego wheels.
+   • Challenge and solution: the biggest challenge we had was to get a solid structure for the robot, without exceeding the size stipulated in the regulations. When we got the solid structure after several repairs, we found another (structural) problem which was that the front wheels, which are responsible for spinning the robot, tended to fall off the structure most of the time, causing the robot to not steer or walk properly so we had to replace the spike wheels with other lego wheels.
 
 
-Conclusion 
+   Conclusion 
 
 Information: brain hub, battery connects 
 
 ¿What motivated us to make the vehicle?
 We are motivated in Tesla vehicles by their autonomy on the track.
 
-• Mobility: at the beginning we were obviously inspired by the common car system, but when we saw that it consumed space, which is very important for us, we started looking for a different system. We came up with the idea of doing it with gears which convinced us because the system weighed less than the others and consumed less space.
+   • Mobility: at the beginning we were obviously inspired by the common car system, but when we saw that it consumed space, which is very important for us, we started looking for a different system. We came up with the idea of doing it with gears which convinced us because the system weighed less than the others and consumed less space.
 
-• Power: we decided to use two motors as this would make it easier to carry the weight of the robot, using two motors for better mobility, balance and speed of our robot we use a bar for better precision in the mobility of our vehicle.
+   • Power: we decided to use two motors as this would make it easier to carry the weight of the robot, using two motors for better mobility, balance and speed of our robot we use a bar for better precision in the mobility of our vehicle.
 
- • Sensors: with the help of the proximity sensor we measure the distance in which indie must rotate, also relying on the color sensors if it is red it will rotate to the right, if it is green it will rotate to the left.
+   • Sensors: with the help of the proximity sensor we measure the distance in which indie must rotate, also relying on the color sensors if it is red it will rotate to the right, if it is green it will rotate to the left.
 
-• Steering Speed Control:
+   • Steering Speed Control:
 The motors together with the programming was the key to having a speed that will first accept the programming and the motors that are two motors that depend on whether they go to the left or to the right.
 
 
