@@ -121,6 +121,7 @@ Información: Brain Hub, la batería se conecta.
 
 ========================================================================================================================================================================================                                                                      
 proyect 95octano
+
 Group: Galaxy Crew.
 
 Members: Raquel Lorenzo, Auric Arango, Jorge Dixon.
