@@ -84,9 +84,9 @@ Información: Brain Hub, la batería se conecta.
 
    • Movilidad: al principio obviamente nos inspiramos en el sistema común del coche, pero cuando vimos que consumía espacio, que para nosotros es muy importante, empezamos a buscar un sistema diferente. Se nos ocurrió la idea de hacerlo con engranajes lo cual nos convenció porque el sistema pesaba menos que los demás y consumía menos espacio.
 
-   • Potencia: decidimos usar dos motores ya que esto facilitaría el transporte del peso del robot, usando dos motores para una mejor movilidad, equilibrio y velocidad de nuestro robot usamos una barra para una mejor precisión en la movilidad de nuestro vehículo.
+   • Potencia: decidimos usar dos motores ya que esto facilitaría el transporte del peso , para una mejor movilidad, equilibrio y velocidad de nuestro robot también barra para una mejor precisión en la movilidad de nuestro robot.
 
-   • Sensores: con ayuda del sensor de proximidad medimos la distancia en la que debe girar el indie, apoyándonos también en los sensores de color si es rojo girará hacia la derecha, si es verde girará hacia la izquierda.
+   • Sensores: utilizamos sensores de ultrasonido que envian ondas a la pared y las recibe, para evitar que las 2 laterales hagan este procedimiento siempre, tenemos una delantera que les comunica a las otras cuando empezar a medir, ejecutar las acciones , apoyándonos también en los sensores de color este tiene que tocar el bloque para que la luz reciba los reflejos de colores, por ejemplo el rojo, para que vaya a la derecha y verde izquierda.
 
    • Control de Velocidad de Dirección: Los motores junto con la programación fue la clave para tener una velocidad que primero acepte la programación y los motores que son dos motores que dependen si van hacia la izquierda o hacia la derecha.
 
@@ -130,6 +130,7 @@ Members: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 
 School: Colegio Bilingue Eben Ezer.
 
+[![Picsart-24-08-09-06-57-58-790.png](https://i.postimg.cc/YCHpQPJg/Picsart-24-08-09-06-57-58-790.png)](https://postimg.cc/TptM6t2Y)
 
    Introduction
 
@@ -217,7 +218,7 @@ We are motivated in Tesla vehicles by their autonomy on the track.
 
    • Power: we decided to use two motors as this would make it easier to carry the weight of the robot, using two motors for better mobility, balance and speed of our robot we use a bar for better precision in the mobility of our vehicle.
 
-   • Sensors: with the help of the proximity sensor we measure the distance in which indie must rotate, also relying on the color sensors if it is red it will rotate to the right, if it is green it will rotate to the left.
+   • Sensors: We use ultrasound sensors that send waves to the wall and receive them, to prevent the 2 lateral ones from always doing this procedure, we have a front one that tells the others when to start measuring, execute the actions, also relying on the color sensors This has to touch the block so that the light receives colored reflections, for example red, so that it goes to the right and green to the left.
 
    • Steering Speed Control:
 The motors together with the programming was the key to having a speed that will first accept the programming and the motors that are two motors that depend on whether they go to the left or to the right.
