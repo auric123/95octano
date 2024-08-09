@@ -7,3 +7,8 @@ Vehicle's photos
 ![image](https://github.com/user-attachments/assets/7b2930a3-ab0a-4195-b1c1-d4f47458a7c1)
 ![image](https://github.com/user-attachments/assets/5d2a53b0-3928-4af9-8783-51d97ce81917)
 ![image](https://github.com/user-attachments/assets/e18f352a-376d-4157-a2b5-a3bd49ef1d93)
+[![IMG-20240809-063119.jpg](https://i.postimg.cc/13prjxgH/IMG-20240809-063119.jpg)](https://postimg.cc/gx2hxTHX)
+[![IMG-20240809-063134.jpg](https://i.postimg.cc/YSrsHNmT/IMG-20240809-063134.jpg)](https://postimg.cc/21twdZGx)
+[![IMG-20240809-063141.jpg](https://i.postimg.cc/cHj9wV5N/IMG-20240809-063141.jpg)](https://postimg.cc/S26fpthZ)
+[![IMG-20240809-063146.jpg](https://i.postimg.cc/gk3SLtVf/IMG-20240809-063146.jpg)](https://postimg.cc/7fYMpVQV)
+[![IMG-20240809-063152.jpg](https://i.postimg.cc/tgv2GKbV/IMG-20240809-063152.jpg)](https://postimg.cc/1g6ppYf9)
