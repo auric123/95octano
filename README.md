@@ -82,9 +82,9 @@ Información: Brain Hub, la batería se conecta.
 
 ¿Qué nos motivó a fabricar el vehículo? En los vehículos Tesla nos motiva su autonomía en pista.
 
-   • Movilidad: al principio obviamente nos inspiramos en el sistema común del coche, pero cuando vimos que consumía espacio, que para nosotros es muy importante, empezamos a buscar un sistema diferente. Se nos ocurrió la idea de hacerlo con engranajes lo cual nos convenció porque el sistema pesaba menos que los demás y consumía menos espacio.
+   • Movilidad: Basandonos en la dimensión de la pista el robot realiza la una movilidad en linea recta combinada con giros controlados por tiempos de espera en la programacion.
 
-   • Potencia: decidimos usar dos motores ya que esto facilitaría el transporte del peso , para una mejor movilidad, equilibrio y velocidad de nuestro robot también barra para una mejor precisión en la movilidad de nuestro robot.
+   • Potencia: decidimos usar dos motores uno para la aceleración del robot a 100% y a su ves controlar el peso , y otro motor grande para los giros, para una mejor movilidad, equilibrio y velocidad de nuestro robot también barra para una mejor precisión en la movilidad de nuestro robot.
 
    • Sensores: utilizamos sensores de ultrasonido que envian ondas a la pared y las recibe, para evitar que las 2 laterales hagan este procedimiento siempre, tenemos una delantera que les comunica a las otras cuando empezar a medir, ejecutar las acciones , apoyándonos también en los sensores de color este tiene que tocar el bloque para que la luz reciba los reflejos de colores, por ejemplo el rojo, para que vaya a la derecha y verde izquierda.
 
@@ -215,7 +215,7 @@ Information: brain hub, battery connects
 ¿What motivated us to make the vehicle?
 We are motivated in Tesla vehicles by their autonomy on the track.
 
-   • Mobility: at the beginning we were obviously inspired by the common car system, but when we saw that it consumed space, which is very important for us, we started looking for a different system. We came up with the idea of doing it with gears which convinced us because the system weighed less than the others and consumed less space.
+   • Mobility: Based on the dimension of the track, the robot performs straight-line mobility combined with turns controlled by waiting times in the programming.
 
    • Power: we decided to use two motors as this would make it easier to carry the weight of the robot, using two motors for better mobility, balance and speed of our robot we use a bar for better precision in the mobility of our vehicle.
 
