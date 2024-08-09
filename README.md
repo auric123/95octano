@@ -130,7 +130,7 @@ Members: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 
 School: Colegio Bilingue Eben Ezer.
 
-[![Picsart-24-08-09-06-57-58-790.png](https://i.postimg.cc/YCHpQPJg/Picsart-24-08-09-06-57-58-790.png)](https://postimg.cc/TptM6t2Y)
+[![Picsart-24-08-09-07-57-34-537.png](https://i.postimg.cc/B6TzzDSs/Picsart-24-08-09-07-57-34-537.png)](https://postimg.cc/473w7YHF)
 
    Introduction
 
