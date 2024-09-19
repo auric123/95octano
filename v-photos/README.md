@@ -1,20 +1,32 @@
 Vehicle's photos
 ==========
 
-![image](https://github.com/user-attachments/assets/5b16a7e3-6daf-4a1e-a5c3-a0efcf09795f)
-![image](https://github.com/user-attachments/assets/dc5c414b-5bbc-404e-b302-c5fd8a6d85ab)
-![image](https://github.com/user-attachments/assets/8880ae21-2476-4691-a52d-02092e4c4bbf)
-![image](https://github.com/user-attachments/assets/7b2930a3-ab0a-4195-b1c1-d4f47458a7c1)
-![image](https://github.com/user-attachments/assets/5d2a53b0-3928-4af9-8783-51d97ce81917)
-![image](https://github.com/user-attachments/assets/e18f352a-376d-4157-a2b5-a3bd49ef1d93)
-[![IMG-20240809-063119.jpg](https://i.postimg.cc/13prjxgH/IMG-20240809-063119.jpg)](https://postimg.cc/gx2hxTHX)
-[![IMG-20240809-063134.jpg](https://i.postimg.cc/YSrsHNmT/IMG-20240809-063134.jpg)](https://postimg.cc/21twdZGx)
-[![IMG-20240809-063141.jpg](https://i.postimg.cc/cHj9wV5N/IMG-20240809-063141.jpg)](https://postimg.cc/S26fpthZ)
-[![IMG-20240809-063146.jpg](https://i.postimg.cc/gk3SLtVf/IMG-20240809-063146.jpg)](https://postimg.cc/7fYMpVQV)
-[![IMG-20240809-063152.jpg](https://i.postimg.cc/tgv2GKbV/IMG-20240809-063152.jpg)](https://postimg.cc/1g6ppYf9)
-[![IMG-20240803-WA0008.jpg](https://i.postimg.cc/63jsSjjH/IMG-20240803-WA0008.jpg)](https://postimg.cc/mzH61wGM)
-[![IMG-20240803-WA0005.jpg](https://i.postimg.cc/VvJycq2z/IMG-20240803-WA0005.jpg)](https://postimg.cc/MfJ37QWL)
-[![IMG-20240803-WA0007.jpg](https://i.postimg.cc/3NVsryHm/IMG-20240803-WA0007.jpg)](https://postimg.cc/1V0CJ3X3)
-[![IMG-20240803-WA0006.jpg](https://i.postimg.cc/qBFVxFCq/IMG-20240803-WA0006.jpg)](https://postimg.cc/Z06MTVHz)
-[![IMG-20240803-WA0009.jpg](https://i.postimg.cc/wTsKfkhV/IMG-20240803-WA0009.jpg)](https://postimg.cc/7fDQb0tG)
-[![IMG-20240708-WA0000.jpg](https://i.postimg.cc/DZzHqQv1/IMG-20240708-WA0000.jpg)](https://postimg.cc/kVkTCbt5)
+FRONTAL
+
+![WhatsApp Image 2024-09-19 at 1 38 49 PM (2)](https://github.com/user-attachments/assets/6e9cd473-d910-4b45-a053-f16377fcd940)
+==================================================================================================================================
+LATERAL DERECHO
+
+![WhatsApp Image 2024-09-19 at 1 38 48 PM (1)](https://github.com/user-attachments/assets/5d964db2-ad02-4ad0-973f-05e4c47a57b3)
+
+==================================================================================================================================
+LATERAL IZQUIERDO
+
+![WhatsApp Image 2024-09-19 at 1 38 49 PM (3)](https://github.com/user-attachments/assets/a31d0a64-8cb2-40eb-be4b-e564bd10068b)
+
+==================================================================================================================================
+SUPERIOR
+
+![WhatsApp Image 2024-09-19 at 1 38 51 PM](https://github.com/user-attachments/assets/4f58d274-c20f-4486-bb43-c94a9b286511)
+
+==================================================================================================================================
+INFERIOR
+
+![WhatsApp Image 2024-09-19 at 1 38 46 PM](https://github.com/user-attachments/assets/8c5ed89c-659c-4e2a-bd09-10fab5ed3772)
+
+==================================================================================================================================
+TRASERO
+
+![WhatsApp Image 2024-09-19 at 1 38 47 PM (1)](https://github.com/user-attachments/assets/f2b84798-43e2-4dd3-b0c4-74f757bdde9b)
+
+==================================================================================================================================
