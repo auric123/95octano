@@ -6,7 +6,7 @@ Integrantes: Raquel Lorenzo, Auric Arango, Jorge Dixon.
 
 Colegio: Colegio Bilingue Eben Ezer.
 
-[![Picsart-24-08-09-06-57-58-790.png](https://i.postimg.cc/YCHpQPJg/Picsart-24-08-09-06-57-58-790.png)](https://postimg.cc/TptM6t2Y)
+
 
    Introducción
 
