@@ -48,19 +48,26 @@ Electrónica:
 ![image](https://github.com/user-attachments/assets/7713af4d-43a5-401a-8839-2326f6eb7def)
 
 
-Esta programación la utilizamos tanto para la ronda 1 como en la ronda de obstáculos, básicamente colocamos que al iniciar el programa lo primero que realice el Hub es reiniciar el cronómetro para que comience en 0. La velocidad del motor "A" la ajustamos en 60% y la posición del motor "B" en los 0° grados. El robot realizará las siguientes acciones en un tiempo de 21.5 segundos en forma de repeticiones.
+Esta programación la utilizamos tanto para la ronda 1 como en la ronda de obstáculos, básicamente colocamos que al iniciar el programa lo primero que realice el Hub es reiniciar el cronómetro para que comience en 0. La velocidad del motor "A" la ajustamos en 100% y la posición del motor "B" en los 0° grados. El robot realizará las siguientes acciones en un tiempo de 21.5 segundos en forma de repeticiones.
 
-![image](https://github.com/user-attachments/assets/22b5a355-0437-4ba1-b6de-1fca4c989270)
+![image](https://github.com/user-attachments/assets/9bd2fdf9-d771-4cff-b9e8-e76be923354e)
 
-Ahora, si el sensor C está a más de 100cm y el sensor F está a menos de 75cm, lo que realizara el robot a continuación es reducir su velocidad del motor "A" a 40% y posicionar el giro del motor "B" en 305° grados durante 0,6 segundos. Al pasar el tiempo volverá a ajustar su velocidad a 40% y la posición del motor "B" en 0° grados.
 
-![image](https://github.com/user-attachments/assets/3ed03b18-5244-4ea0-8bca-b4182441aab1)
 
-Pero, si el sensor F es quien detecta más de 100Cm de distancia y el sensor C detecta menos de 75cm, el robot realizará lo mismo, solo que girará al lado contrario del caso anterior, posicionando el motor "B" en 55° grados y manteniendo la velocidad del motor "A" en 40% durante los 0,6 segundos, luego volverá a reacomodarse el motor "B" en 0° grados. 
+Ahora, si el sensor E es menor de 80cm, entra en la siguiente condicion en donde di el sensor C está a más de 150cm y el sensor F está a menos de 90cm, lo que realizara el robot a continuación es reducir su velocidad del motor "B" a 70% y posicionar el giro del motor "B" en 300° grados con un tiempo de espera de 0,4 segundos. Al pasar la condicion volverá a ajustar su posicion incial para asi ir en linea recta.
 
-![image](https://github.com/user-attachments/assets/b95c3641-b0fa-4758-bcb5-d483953cc901)
+![image](https://github.com/user-attachments/assets/7cb41402-22f9-4503-97f1-505f847b46cf)
 
-Por último, el robot realizará estas acciones en bucle manteniendo encendido el motor "A". Y al terminar el tiempo estipulado, se detendrán los motores y el Hub saldra de la programación.
+
+Pero, si se reíte la condicion inicial con el sensor E y en esta ocacion el sensor F es quien detecta más de 150Cm de distancia y el sensor C detecta menos de 90cm, el robot realizará lo mismo, solo que girará al lado contrario del caso anterior, y  reducir su velocidad del motor "B" a 70% y posicionar el giro del motor "B" en 46° con un tiempo de espera de 0,4 segundos, luego volverá a reacomodarse el motor "B" en 0° grados. 
+
+![image](https://github.com/user-attachments/assets/f64c3a58-32ef-460e-87a5-cc74ce1b4d5f)
+
+
+Por último, el robot realizará estas acciones en bucle manteniendo encendido el motor "A" y acomodando el motor"B" en la posicion 0° para asi seguir en linea recta. Y al terminar el tiempo estipulado, se detendrán los motores y el Hub saldra de la programación.
+
+![image](https://github.com/user-attachments/assets/858f51d3-777a-49b8-9a41-8442d9aeeb5c)
+
 
    Entrada de diario
 
