@@ -16,9 +16,9 @@ Nuestro robot (95 Octanos) se basó según las reglas de wro y según nuestros c
 
    Mecánica:
 
-   • La dirección se dirige basándose en la programación de picos para un rendimiento optimizado, en la parte inferior tenemos.
+   • La dirección se dirige basándose en la programación de Spike para un rendimiento optimizado, en la parte inferior tenemos.
 
-   • Conducir: conduces a través del centro que te da las indicaciones dependiendo de la situación en la que te encuentres en el momento de conducir.
+   • Conducir: conduces a través del centro que te da las indicaciones dependiendo de la situación en la que se encuentre en el momento de conducir.
 
    • Diseño de Chasis: Nuestro robot tiene un chasis cuadrado que intenta simular un coche convencional.
 
@@ -31,21 +31,24 @@ Electrónica:
 
    • Diagrama de cableado:
 
-![image](https://github.com/user-attachments/assets/1e7a8033-28a4-47e9-b664-6bf5b74a769d)
+![DIAGRAMA ELECTRICO 95 OCTANO](https://github.com/user-attachments/assets/a81490e1-d94e-469a-ab45-58298e1ba7ea)
+
 
    Programación
 
    • Diagrama de flujo:
 
-![image](https://github.com/auric123/95octano/assets/171710232/9a47f9ea-59b3-4bf8-8f43-ba88dcf4d076)
+![FUTUROS_ING_GC DIAGRAMA DE FLUJO](https://github.com/user-attachments/assets/283682d8-7bf6-45a3-9a61-83f451e393ae)
+
 
    Estrategias: Como estrategia principal teníamos que ver cómo se movían los sensores junto con el motor y que éste pudiera ser autónomo y específico en los colores al lado del sensor de color.
 
    • Discusión del código:
 
-![image](https://github.com/user-attachments/assets/7a250926-4d16-4ac0-8bd6-9209aabbdc0f)
+![image](https://github.com/user-attachments/assets/7713af4d-43a5-401a-8839-2326f6eb7def)
 
-Esta programación la utilizamos tanto para la ronda 1 como en la ronda de obstáculos, básicamente colocamos que al iniciar el programa lo primero que realice el Hub es reiniciar el cronómetro para que comience en 0. La velocidad del motor "A" la ajustamos en 60% y la posición del motor "B" en los 0° grados. El robot realizará las siguientes acciones en un tiempo de 60 segundos en forma de repeticiones.
+
+Esta programación la utilizamos tanto para la ronda 1 como en la ronda de obstáculos, básicamente colocamos que al iniciar el programa lo primero que realice el Hub es reiniciar el cronómetro para que comience en 0. La velocidad del motor "A" la ajustamos en 60% y la posición del motor "B" en los 0° grados. El robot realizará las siguientes acciones en un tiempo de 21.5 segundos en forma de repeticiones.
 
 ![image](https://github.com/user-attachments/assets/22b5a355-0437-4ba1-b6de-1fca4c989270)
 
