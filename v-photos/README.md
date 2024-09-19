@@ -5,26 +5,31 @@ FRONTAL
 
 ![WhatsApp Image 2024-09-19 at 1 38 49 PM (2)](https://github.com/user-attachments/assets/6e9cd473-d910-4b45-a053-f16377fcd940)
 ==================================================================================================================================
+
 LATERAL DERECHO
 
 ![WhatsApp Image 2024-09-19 at 1 38 48 PM (1)](https://github.com/user-attachments/assets/5d964db2-ad02-4ad0-973f-05e4c47a57b3)
 
 ==================================================================================================================================
+
 LATERAL IZQUIERDO
 
 ![WhatsApp Image 2024-09-19 at 1 38 49 PM (3)](https://github.com/user-attachments/assets/a31d0a64-8cb2-40eb-be4b-e564bd10068b)
 
 ==================================================================================================================================
+
 SUPERIOR
 
 ![WhatsApp Image 2024-09-19 at 1 38 51 PM](https://github.com/user-attachments/assets/4f58d274-c20f-4486-bb43-c94a9b286511)
 
 ==================================================================================================================================
+
 INFERIOR
 
 ![WhatsApp Image 2024-09-19 at 1 38 46 PM](https://github.com/user-attachments/assets/8c5ed89c-659c-4e2a-bd09-10fab5ed3772)
 
 ==================================================================================================================================
+
 TRASERO
 
 ![WhatsApp Image 2024-09-19 at 1 38 47 PM (1)](https://github.com/user-attachments/assets/f2b84798-43e2-4dd3-b0c4-74f757bdde9b)
