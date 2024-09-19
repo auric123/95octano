@@ -4,7 +4,8 @@ Control software
 
 PERIMETER PROGRAM (PROGRAMA DEL PERIMETRO)
 
-![image](https://github.com/user-attachments/assets/9cdc5981-febd-4562-8ed1-9bffe0fc4be4)
+![image](https://github.com/user-attachments/assets/697a78ee-f7fc-485d-9cd3-123a329884fc)
+
 
 ==================================================================
 
