@@ -129,8 +129,7 @@ Información: Brain Hub, la batería se conecta.
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
 ![image](https://github.com/user-attachments/assets/3ae3643d-cfdc-4e9a-bd0e-40bdce629090)
-[![IMG-20240809-WA0001.jpg](https://i.postimg.cc/6Q0R15kg/IMG-20240809-WA0001.jpg)](https://postimg.cc/R3WNW9VL)
-[![IMG-20240809-WA0003.jpg](https://i.postimg.cc/7hpTTCzG/IMG-20240809-WA0003.jpg)](https://postimg.cc/T5JPz3Cf)
+
 
 ========================================================================================================================================================================================                                                                      
 proyect 95octano
