@@ -129,6 +129,18 @@ Información: Brain Hub, la batería se conecta.
 ![image](https://github.com/auric123/95octano/assets/171710232/f05a15ce-fd5a-45be-b2fb-96a15f5ae6be)
 ![image](https://github.com/auric123/95octano/assets/171710232/53d97875-d9c3-4948-a0a6-6e011ca0b170)
 ![image](https://github.com/user-attachments/assets/3ae3643d-cfdc-4e9a-bd0e-40bdce629090)
+![image](https://github.com/user-attachments/assets/5ff85ad1-c3b9-4787-b2fd-36eda6186ed0)
+![image](https://github.com/user-attachments/assets/7f721cb2-f245-48f4-984b-cf5e10b98710)
+![image](https://github.com/user-attachments/assets/a1114258-d307-4339-ae9f-e1edd8051c9d)
+![image](https://github.com/user-attachments/assets/2fb3d5bf-284c-4646-a1b8-a13be58e107c)
+![image](https://github.com/user-attachments/assets/1dbd7c5a-2108-4cd1-8b78-9549cc81538f)
+![image](https://github.com/user-attachments/assets/32e256c0-80a2-4515-bdf9-e68079f1f0a0)
+
+
+
+
+
+
 
 
 ========================================================================================================================================================================================                                                                      
